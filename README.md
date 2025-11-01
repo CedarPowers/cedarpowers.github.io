@@ -2,9 +2,11 @@
 
 
 <h3>About Me</h3>
+Hello! 
 
 <h3>Projects </h3>
-![Imagine there's a project here]<>
+<h5>Imaginary Project!!</h5>
+![Imagine there's a project here]<cedarpowers.github.io>
 
 <h3>Contact</h3>
 [Email](cedarmpowers@gmail.com)<br>
