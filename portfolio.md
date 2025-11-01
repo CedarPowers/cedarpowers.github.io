@@ -2,7 +2,7 @@
 layout: page
 title: "Portfolio"
 permalink: /portfolio
-order: 2
+nav_order: 2
 ---
 
 projects will be here ... eventually
