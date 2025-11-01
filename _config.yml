@@ -12,6 +12,6 @@ minima:
       icon: linkedin
       url: "https://www.linkedin.com/in/cedarpowers"
   nav_pages:
+    - portfolio.md
     - about.md
-    - projects.md
 
