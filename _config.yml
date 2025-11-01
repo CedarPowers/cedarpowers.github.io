@@ -2,18 +2,12 @@ theme: minima
 title: Cedar's Page
 author: Cedar Powers
 email: cedarmpowers@gmail.com
-description: A small sample of what I get up to! <br> This site is created and maintained by Cedar Powers.
+description: A small sample of what I get up to! This site is created and maintained by Cedar Powers.
 github_username: CedarPowers
+linkedin_username: cedarpowers
 
 minima:
   skin: classic
-  social_links:
-    - title: GitHub
-      icon: github
-      url: "https://github.com/CedarPowers"
-    - title: LinkedIn
-      icon: linkedin
-      url: "https://www.linkedin.com/in/cedarpowers"
   nav_pages:
     - portfolio.md
     - about.md
