@@ -3,6 +3,7 @@
 
 <h3>About Me</h3>
 Hello! 
+<cedarpowers.github.io/about>
 
 <h3>Projects </h3>
 <h5>Imaginary Project!!</h5>
