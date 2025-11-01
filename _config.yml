@@ -3,6 +3,7 @@ title: Cedar's Page
 description: A small sample of what I get up to!
 
 minima:
+  skin: classic
   social_links:
     - title: GitHub
       icon: github
